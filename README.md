@@ -10,10 +10,6 @@ Salary depends on several factors such as job role, experience level, company si
 
 Data-Driven Modeling of Salary Dynamics Using Machine Learning
 
-## Project Guide
-
-Heena Kawar
-
 ## Project Objectives
 
 - To analyze salary data using machine learning techniques
@@ -90,4 +86,4 @@ AICTE Internship Project
 
 Bhukya Anil Kumar  
 B.Tech Student  
-Computer Science and Engineering
+CSE(AI&ML)
